@@ -51,4 +51,6 @@ Once the contract is deployed, you can interact with it by calling the Mint or B
 
 Swagatika Behera
 
-@capslockon29
+SwagatikaBehera
+
+[@capslockon29](https://twitter.com/capslockon29)
